@@ -47,7 +47,7 @@ const metadata = {
   },
   post: postText,
   post_url: postUrl,
-  play_code: 'makefun-topaz-balcony-kale',
+  play_code: 'makefun-duck-apron-tofu',
   bounty: 'https://make.fun/bounty/post-x-promote-make-your-own-bounty-01',
   account: '@Borjigin_Mahgal',
 };

@@ -21,7 +21,7 @@ This copies `POST.json` into the output directory, copies `assets/bounty-promo.p
 ## What is in this repo
 
 - `assets/bounty-promo.png` — the promo image (2048×1152 PNG, original).
-- `post.txt` — the exact X post text, including the play code `makefun-topaz-balcony-kale`.
+- `post.txt` — the exact X post text, including the play code `makefun-duck-apron-tofu`.
 - `POST.json` — the X post's address (updated once the post is live).
 - `main.ts` — the deterministic entrypoint described above.
 
